@@ -42,7 +42,7 @@ In the intial phase of my data preparation, I performed the following tasks:
 2. Handle missing values and ouliers.
 3. Data cleaning and formatting.
 
-### Exploratory Data Analysis
+### 👓 Exploratory Data Analysis
 
 This step of the analysis invovled answering key questions:
 - Which categories are the most popular?
