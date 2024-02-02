@@ -1,4 +1,4 @@
-# YouTube_Streamer_Data_Analysis
+# YouTube Streamer Data Analysis
 
 ## Table of Contents
 
